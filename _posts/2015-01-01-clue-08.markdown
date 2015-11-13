@@ -1,0 +1,5 @@
+---
+layout: clue
+clue:  "On the table"
+permalink: bottle
+---

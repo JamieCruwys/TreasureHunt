@@ -1,0 +1,5 @@
+---
+layout: clue
+clue:  "Look out the window"
+permalink: guitar
+---

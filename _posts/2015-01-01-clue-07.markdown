@@ -1,0 +1,5 @@
+---
+layout: clue
+clue:  "Under the mat"
+permalink: kitten
+---

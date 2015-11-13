@@ -1,0 +1,6 @@
+---
+layout: clue
+clue:  "Look up"
+permalink: first
+---
+<!-- This is the first link that people go to in your treasure hunt -->

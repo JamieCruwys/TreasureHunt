@@ -6,16 +6,23 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Treasure Hunt
+
+# Instructions
+instructions_title: How It Works
+instructions: Find the post-it notes based on the clues. Go to the this domain /{word} to get the next clue.
+
+# Permalinks
+starting_permalink: first
+ending_permalink: congratulations
+
+# Congratulations page
+congratulations_image: https://media.giphy.com/media/qDWSxfium1oRO/giphy.gif
+congratulations_text: You've completed the treasure hunt - you can collect your prize!
+
+# URLS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
