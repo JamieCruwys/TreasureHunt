@@ -1,0 +1,5 @@
+---
+layout: clue
+clue:  "Behind the shelf"
+permalink: kangaroo
+---
