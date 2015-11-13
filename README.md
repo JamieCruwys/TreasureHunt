@@ -9,13 +9,13 @@ A simple Jekyll site that allows you to create simple web driven treasure hunts
 # Run locally
 
 1. Navigate into the directory using `cd /your/folders/TreasureHunt`
-2. Serve the site using Jekyll. `jekyll serve --watch`
-    * `--watch` will automatically update the page when you make changes that aren't in `_config.yml`
+2. Serve the site using Jekyll with `jekyll serve --watch`
+    * `--watch` will automatically update the site when you make changes
 3. Browse to [http://localhost:4000](http://localhost:4000)
 
 # Configuration
 
 * Configure the options in `_config.yml`
-* Add new posts in a similar format to the examples `2015-01-01-clue-01.markdown`
+* Add new posts in a similar format to the examples like `2015-01-01-clue-01.markdown`
     * Set the clue to be your clue text
     * Set the permalink to be the link that they find during the treasure hunt
