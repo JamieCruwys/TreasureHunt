@@ -7,10 +7,20 @@
 
 # Site settings
 title: Treasure Hunt
+
+# Instructions
 instructions_title: How It Works
 instructions: Find the post-it notes based on the clues. Go to the this domain /{word} to get the next clue.
-starting_permalink: first
 
+# Permalinks
+starting_permalink: first
+ending_permalink: congratulations
+
+# Congratulations page
+congratulations_image: https://media.giphy.com/media/qDWSxfium1oRO/giphy.gif
+congratulations_text: You've completed the treasure hunt - you can collect your prize!
+
+# URLS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
